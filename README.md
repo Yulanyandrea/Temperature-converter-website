@@ -1,4 +1,4 @@
-                                                              # Challenge 13 Temperature-converter-website
+###Challenge 13 Temperature-converter-website
 
 Temperature converter website
 
@@ -21,13 +21,13 @@ Dropdown menu or radio button for the user to choose if they are inputting in Ce
 Display area for the final converted temperature and unit
 For an extra challenge: You can add in a third conversion option to convert from and to Kelvin as well.
 
-                                                              Bibliografy 
+###Bibliografy 
 
 It was very interesing learn about Usestate in React . In this case we had to investigated about this concept, work with Javascript, and use our intelligence to go with this challenge. Here is the documentation for this topic: 
 
 https://beta.reactjs.org/apis/react/useState
 
-                                                              What I  learned ?
+###What I  learned ?
 
 I did not have knowlege about the different React's functionalities mixing Javascript. Here you will find the solution of this challenge
 
